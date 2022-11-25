@@ -1,0 +1,27 @@
+body {
+    max-width: 500px;
+  margin: auto;
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img {
+    width: 75%;
+}
+li{
+    font-size: 1.5em;
+text-decoration: underline;
+}
+div {
+    font-size: 1.25em;
+}
+h2 {
+    font-size: 1.5em;
+}
+h1 {
+    font-size: 3em;
+}
+a {
+    color: red;
+}
